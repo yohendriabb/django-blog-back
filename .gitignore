@@ -1,0 +1,10 @@
+.env
+__pycache__
+
+run.bat
+
+make.bat
+
+migrate.bat
+
+.env
